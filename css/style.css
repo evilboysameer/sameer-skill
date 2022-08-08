@@ -1,0 +1,125 @@
+body{
+color: #40514E;
+margin: 0;
+text-align: center;
+font-family: "Merriweather",serif;
+}
+
+h1{
+font-size: 5.625rem;
+  margin: 50 auto 0 auto ;
+  font-family: "Sacramento",serif;
+  color:  #66BFBF;
+
+}
+
+h2{
+  font-family: "Merriweather",serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color:  #66BFBF;
+  padding: 10px 0;
+}
+h3{
+  font-family: "Merriweather",serif;
+  color:  #11999E;
+}
+.pro{
+  text-decoration: underline;
+}
+.intro{
+  width: 40%;
+  margin: 50px auto;
+}
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.middle-container{
+  padding: 25px 0;
+
+}
+
+.bottom-container{
+background: #66BFBF;
+
+padding: 50px 25px  50px 25px ;
+
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.footer-link{
+  color: #11999E;
+  width: 25%;
+
+}
+
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+
+}
+p{
+    line-height: 2;
+}
+.burger{
+  width: 22%;
+  margin-right: 30px;
+  float: left;
+
+}
+.computer{
+  width: 25%;
+  margin-right: 30px;
+  float: right;
+
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 6px;
+  width:5%;
+  margin: 100px auto;
+}
+.bottom-p{
+  margin-bottom: 0;
+  margin-top: 10PX;
+  color: #EAF6F6;
+  padding-bottom: 3PX;
+}
+.btn {
+  -webkit-border-radius: 18;
+  -moz-border-radius: 18;
+  border-radius: 18px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #11999E;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.footer-link:hover{
+  background: #E4F9F5;
+  text-decoration: none;
+}
